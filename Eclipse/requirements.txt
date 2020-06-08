@@ -1,4 +1,4 @@
+empyrical
 pandas-datareader
 plotly
 statsmodels
-
